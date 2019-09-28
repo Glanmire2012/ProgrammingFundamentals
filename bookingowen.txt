@@ -1,0 +1,11 @@
+Booking Application
+-------------------
+Band Name:owen
+Requested By:2(Contact: and 0)
+Date Requested 000
+Band Members
+------------
+1:-
+2:-
+Price includes 6 session musicians Per day.
+The total payment will be 1615.0 which includes a 5% reduction for paying in cash.

@@ -1,0 +1,10 @@
+Booking Application
+-------------------
+Band Name:test
+Requested By:owen(Contact:owensheehan@gmail.com and 0831107779)
+Date Requested 19122017
+Band Members
+------------
+1:1-1
+Price includes 1 session musicians Per day.
+The total payment will be 378.0 which includes a 5% credit card levy.
